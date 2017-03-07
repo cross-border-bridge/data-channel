@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "lib",
+    "target": "es5",
+    "stripInternal": true,
+    "declaration": true,
+    "sourceMap": true,
+    "noImplicitAny": true
+  },
+  "files": [
+    "src/index.ts",
+    "src/DataChannel.ts"
+  ]
+}
